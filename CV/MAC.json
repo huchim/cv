@@ -111,23 +111,6 @@
         ]
       }
     ],
-    "projects": [
-      {
-        "details": {
-          "name": "huchim/ventanas-ajax",
-          "description": "Cargar el contenido de un enlace dentro de una ventana modal de bootstrap.",
-          "URL": "https://github.com/huchim/ventanas-ajax"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-03-01",
-            "finishDate": "2017-03-31"
-          }
-        ]
-      }
-    ],
     "publicArtifacts": [
       {
         "details": {
