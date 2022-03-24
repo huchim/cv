@@ -114,14 +114,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "How can I connect to vmware using VIX (c# wrapper)",
-          "URL": "https://stackoverflow.com/questions/9379636/how-can-i-connect-to-vmware-using-vix-c-wrapper"
-        },
-        "type": "post",
-        "publishingDate": "2012-02-01"
-      },
-      {
-        "details": {
           "name": "React - Score: 148/300",
           "image": {
             "alt": "Title: React - Score: 148/300",
