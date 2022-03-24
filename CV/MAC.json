@@ -6,19 +6,23 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Carlos Jesús Huchim Ahumada",
+      "name": "Carlos Jesús",
       "surnames": "Huchim Ahumada",
-      "title": "GIS Developer at Comisión Federal de Electricidad",
-      "description": "I love to teach what I know. It's amazing when people learn about programming and all they can teach me.!",
+      "title": "Software Developer at Comisión Federal de Electricidad",
+      "description": "Hello, this is Carlos Huchim Ahumada\n\nI'm a software developer living in Yucatán, México and working in CFE since 2007. I previously worked in the \"Housing reconstruction program for hurricane victims\" leaded by Yucatan Government.\n\nI've been coding since 2000 year ✨",
       "avatar": {
-        "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b9851687-cfcd-4779-9c8d-cdefa7174843_t119o.png"
+        "alt": "5809549.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e28275b1-ab00-4c79-bcd5-1447fc711334_5809549.jpg"
       },
       "location": {
         "notes": "Mexico"
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/huchim/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/huchim"
@@ -29,17 +33,17 @@
       },
       {
         "type": "other",
+        "URL": "https://stackoverflow.com/users/735202/carlos-huchim?tab=profile"
+      },
+      {
+        "type": "other",
         "URL": "https://huchim.com"
       }
     ],
     "interestingFacts": [
       {
-        "topic": "Favorite editor",
-        "fact": "Visual Studio or Visual Code (Notepad++, Neatbeans <3)"
-      },
-      {
-        "topic": "First computer",
-        "fact": "Custom PC with Pentium 2 (1995)"
+        "topic": "My first coding experience",
+        "fact": "My first coding experience was with VB and Visual FoxPro and I really enjoyed these times."
       }
     ]
   },
@@ -182,6 +186,18 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/huchim/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/735202/carlos-huchim?tab=profile"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
@@ -201,31 +217,29 @@
           "type": "technology"
         },
         {
-          "name": "vb",
-          "type": "technology"
-        },
-        {
-          "name": "arcgis-js-api",
-          "type": "technology"
-        },
-        {
-          "name": "arcgis-server",
-          "type": "technology"
-        },
-        {
           "name": "ArcGIS",
           "type": "technology"
         },
         {
-          "name": "gis",
-          "type": "technology"
-        },
-        {
-          "name": "windows-server",
-          "type": "technology"
-        },
-        {
           "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
           "type": "technology"
         }
       ]
