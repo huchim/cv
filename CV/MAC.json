@@ -114,20 +114,6 @@
     "projects": [
       {
         "details": {
-          "name": "huchim/Strongly-Typed-Events-for-TypeScript",
-          "description": "Strongly typed events for TypeScript. Add the power of events to your TypeScript classes (and interfaces).",
-          "URL": "https://github.com/huchim/Strongly-Typed-Events-for-TypeScript"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-11-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "huchim/ventanas-ajax",
           "description": "Cargar el contenido de un enlace dentro de una ventana modal de bootstrap.",
           "URL": "https://github.com/huchim/ventanas-ajax"
