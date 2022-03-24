@@ -126,21 +126,6 @@
             "finishDate": "2017-03-31"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "huchim/reporting",
-          "description": "Genera reportes basados en plantillas.",
-          "URL": "https://github.com/huchim/reporting"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-05-01",
-            "finishDate": "2017-05-31"
-          }
-        ]
       }
     ],
     "publicArtifacts": [
