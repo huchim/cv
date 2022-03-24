@@ -1,0 +1,234 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Carlos Jesús Huchim Ahumada",
+      "surnames": "Huchim Ahumada",
+      "title": "GIS Developer at Comisión Federal de Electricidad",
+      "description": "I love to teach what I know. It's amazing when people learn about programming and all they can teach me.!",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b9851687-cfcd-4779-9c8d-cdefa7174843_t119o.png"
+      },
+      "location": {
+        "notes": "Mexico"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/huchim"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/huchim"
+      },
+      {
+        "type": "other",
+        "URL": "https://huchim.com"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Favorite editor",
+        "fact": "Visual Studio or Visual Code (Notepad++, Neatbeans <3)"
+      },
+      {
+        "topic": "First computer",
+        "fact": "Custom PC with Pentium 2 (1995)"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Comisión Federal de Electricidad"
+        },
+        "roles": [
+          {
+            "name": "GIS Developer",
+            "startDate": "2007-01-01",
+            "challenges": [
+              {
+                "description": "A normal day in the job consists in develop apps in the morning and patch existing apps (legacy apps) in the night so I need to use from .net 1.0 to .net core and give a chance to php. I manage a few servers (~20) and I love to configure backups from web/data servers in order to get more time to test new technologies."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "arcgis-server",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "COUSEY"
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2001-01-01",
+            "finishDate": "2007-02-28",
+            "challenges": [
+              {
+                "description": "Create apps to analyze people information."
+              }
+            ],
+            "competences": [
+              {
+                "name": "vb6",
+                "type": "technology"
+              },
+              {
+                "name": "visual-foxpro",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "huchim/Strongly-Typed-Events-for-TypeScript",
+          "description": "Strongly typed events for TypeScript. Add the power of events to your TypeScript classes (and interfaces).",
+          "URL": "https://github.com/huchim/Strongly-Typed-Events-for-TypeScript"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "huchim/ventanas-ajax",
+          "description": "Cargar el contenido de un enlace dentro de una ventana modal de bootstrap.",
+          "URL": "https://github.com/huchim/ventanas-ajax"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-03-01",
+            "finishDate": "2017-03-31"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "huchim/reporting",
+          "description": "Genera reportes basados en plantillas.",
+          "URL": "https://github.com/huchim/reporting"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-05-01",
+            "finishDate": "2017-05-31"
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "How can I connect to vmware using VIX (c# wrapper)",
+          "URL": "https://stackoverflow.com/questions/9379636/how-can-i-connect-to-vmware-using-vix-c-wrapper"
+        },
+        "type": "post",
+        "publishingDate": "2012-02-01"
+      },
+      {
+        "details": {
+          "name": "React - Score: 148/300",
+          "image": {
+            "alt": "Title: React - Score: 148/300",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b0dbdbc8-770f-4a7d-a773-6dd64fb36a19_hpjms.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2018-12-01",
+        "relatedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "vb",
+          "type": "technology"
+        },
+        {
+          "name": "arcgis-js-api",
+          "type": "technology"
+        },
+        {
+          "name": "arcgis-server",
+          "type": "technology"
+        },
+        {
+          "name": "ArcGIS",
+          "type": "technology"
+        },
+        {
+          "name": "gis",
+          "type": "technology"
+        },
+        {
+          "name": "windows-server",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
