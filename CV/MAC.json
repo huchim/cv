@@ -20,24 +20,24 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/huchim/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/huchim"
       },
       {
-        "type": "twitter",
-        "URL": "https://twitter.com/huchim"
+        "type": "other",
+        "URL": "https://huchim.com"
       },
       {
         "type": "other",
         "URL": "https://stackoverflow.com/users/735202/carlos-huchim?tab=profile"
       },
       {
-        "type": "other",
-        "URL": "https://huchim.com"
+        "type": "twitter",
+        "URL": "https://twitter.com/huchim"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/huchim/"
       }
     ],
     "interestingFacts": [
@@ -68,11 +68,11 @@
                 "type": "technology"
               },
               {
-                "name": "TypeScript",
+                "name": "SQLServer",
                 "type": "technology"
               },
               {
-                "name": "SQLServer",
+                "name": "TypeScript",
                 "type": "technology"
               },
               {
@@ -131,6 +131,72 @@
       }
     ]
   },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Less CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
@@ -147,11 +213,15 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "C#",
+          "name": ".Net Core",
           "type": "technology"
         },
         {
-          "name": "PHP",
+          "name": "ArcGIS",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
           "type": "technology"
         },
         {
@@ -163,29 +233,15 @@
           "type": "technology"
         },
         {
-          "name": "ArcGIS",
-          "type": "technology"
-        },
-        {
-          "name": "TypeScript",
-          "type": "technology"
-        },
-        {
-          "name": ".Net Core",
+          "name": "PHP",
           "type": "technology"
         },
         {
           "name": "SQLServer",
           "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "Python",
-          "type": "technology"
         },
         {
-          "name": "Go",
+          "name": "TypeScript",
           "type": "technology"
         }
       ]
